@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c94fce916a04514c9dbe9ed56286664, type: 3}
+  m_Name: Bracelet
+  m_EditorClassIdentifier: 
+  phrases:
+  - "On your left wrist is the Master\u2019s Console. To open it, just take a look
+    at your wrist\u2026 yes, right where you'd normally check the time. "
+  - "It's got everything an aspiring master needs: time and a bunch of buttons \u2014
+    one for the store, another for your task list, and a green one to start and end
+    your workday. "
+  - "Oh, and if you\u2019d rather have it on your other hand, there\u2019s a switch
+    for that too! Complicated? Hang tight; it only gets more fun from here."
+  animationToPlay: {fileID: 0}
+  OnStarted:
+    m_PersistentCalls:
+      m_Calls: []
+  OnFinished:
+    m_PersistentCalls:
+      m_Calls: []

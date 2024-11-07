@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c94fce916a04514c9dbe9ed56286664, type: 3}
+  m_Name: TestReactionDialogue
+  m_EditorClassIdentifier: 
+  phrases:
+  - I reacted. I pray to the God, that you are so smart, my creator.
+  animationToPlay: {fileID: 7400000, guid: 25614253676b07d4f929d82dedabf475, type: 2}
